@@ -1,3 +1,1 @@
- game-snake
-# snake.js
-# snake.js
+# game-snake
